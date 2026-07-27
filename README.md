@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a 2nd year Computer Science student passionate about coding and technology.<br>💻 Skills: Python, C, C++, Basics of Data Structures<br>🚀 Interested in: Web Development, AI/ML, Problem Solving<br>🌱 Currently learning: Data Structure and Algorithms , Git & GitHub<br>🔨 Working on: Personal projects to improve coding skills<br>🎯 Goal: To become a skilled software developer<br>📫 Reach me: rashmirashmiyr@gmail.com / https://www.linkedin.com/in/rashmi-y-r-b5015132b
+Hi, I'm a 3rd year Computer Science student passionate about coding and technology.<br>💻 Skills: Python, C, C++, Basics of Data Structures<br>🚀 Interested in: Web and app Development, AI/ML, Problem Solving<br>🌱 Currently learning: Data Structure and Algorithms , Git & GitHub<br>🔨 Working on: Personal projects to improve coding skills<br>🎯 Goal: To become a skilled software developer<br>📫 Reach me: rashmirashmiyr@gmail.com / https://www.linkedin.com/in/rashmi-y-r-b5015132b
 
 
 ## 🌐 Socials:
