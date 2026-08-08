@@ -10,7 +10,6 @@ I'm a CSE student passionate about software development and continuously improvi
 - 💻 Aspiring Java Full Stack Developer
 - 🌱 Currently learning Java and Full Stack Development
 - 🧠 Practicing Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence & Machine Learning
 - 📊 Interested in building real-world software projects
 - 🔧 Using Git & GitHub to document my learning journey
 - 🎯 Preparing for internships and software development placements
@@ -33,27 +32,19 @@ I'm a CSE student passionate about software development and continuously improvi
 ### Frontend Development
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
-- React.js
 
 ### Backend Development
 - Java
-- Spring Framework
-- Spring Boot
-- REST APIs
 
 ### Databases
 - MySQL
-- MongoDB
+- SQL
 
 ### DevOps & Tools
 - Git
 - GitHub
 - VS Code
-- Linux
-- Docker
-- Deployment
 
 ### AI / Machine Learning
 - Python
@@ -97,12 +88,13 @@ I'm consistently practicing coding, building projects, learning new technologies
 
 ⭐ *Learning every day. Building every day. Improving every day.*
 
-*Reach me:* rashmirashmiyr@gmail.com / https://www.linkedin.com/in/rashmi-y-r-b5015132b
+*Reach me:* rashmirashmiyr@gmail.com  /  https://www.linkedin.com/in/rashmi-y-r-b5015132b
 
 
 ## 🌐 Socials:
-https://www.linkedin.com/in/rashmi-y-r-b5015132b
-https://github.com/Rashmiyr14
+Linkedin: https://www.linkedin.com/in/rashmi-y-r-b5015132b
+
+GitHub: https://github.com/Rashmiyr14
 
 
 
