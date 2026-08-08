@@ -83,7 +83,7 @@ I'm a CSE student passionate about software development and continuously improvi
 
 ### 💻 Other Projects
 - Student Attendance Management System
-- ESP32 Smart Trolley
+- Smart Trolley
 
 ## 📈 My Learning Journey
 
