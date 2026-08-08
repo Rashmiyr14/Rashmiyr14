@@ -93,14 +93,11 @@ I'm consistently practicing coding, building projects, learning new technologies
 
 **To become a skilled Java Full Stack Developer and secure a software development internship/placement.**
 
-## 📫 Connect With Me
-
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-
 ---
 
-⭐ *Learning every day. Building every day. Improving every day.*Reach me: rashmirashmiyr@gmail.com / https://www.linkedin.com/in/rashmi-y-r-b5015132b
+⭐ *Learning every day. Building every day. Improving every day.
+
+*Reach me: rashmirashmiyr@gmail.com / https://www.linkedin.com/in/rashmi-y-r-b5015132b
 
 
 ## 🌐 Socials:
